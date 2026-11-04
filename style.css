@@ -1,0 +1,217 @@
+body {
+  background-image: url("https://img.freepik.com/premium-vector/seamless-pattern-abstract-background-with-futuristic-style-use-for-business-cover-and-banner_7505-1820.jpg");
+}
+
+h1{color:darkgreen;font-size:100px;text-align:center;}
+
+header{height:500px;
+background-image: url("4.jpg");
+background-size: cover;
+  background-position: 20% 20%;}
+
+div{background-color: rgba(25, 55, 200, 0.3);font-size:20px;}
+.container {
+    display: flex;
+  justify-content: center; border-radius:15px;
+ background-color: rgba(0, 0, 55, 0.1);  }
+
+
+  .box {
+    background-color: antiquewhite;  
+    width: 300px;
+    height: 300px; border-radius:15px;
+    background-image: url("1.jpg");
+    background-position: cente center;
+   background-size: cover;
+    margin: 50px;}
+ 
+    .box2 {
+      background-image: url("2.jpg");
+         background-size: cover; 
+         width: 300px;border-radius:15px;
+      height: 300px;
+      margin: 50px;}
+   
+    .box3 {
+   
+      background-image: url("3.jpg");  
+      background-size: cover;
+      width: 300px; border-radius:15px;
+      height: 300px;
+      margin: 50px;}
+
+.box4 {
+   
+      background-image: url("h.jpg");  
+      background-size: cover;
+      width: 300px; border-radius:15px;
+      height: 300px;
+      margin: 50px;}
+
+
+.nav a {
+  display: block;
+  padding: 14px 20px;
+  color: darkgreen
+    ;
+  font-weight: 700;
+  font-size: 20px;
+}
+.nav a:hover {
+  background-color:black;
+  color: white; transform: scale(1);
+}
+.nav a:active {
+  background-color: red;
+  transform: scale(1.67);
+}
+
+
+
+.nav ul {
+  list-style: none;
+  background-color: rgba(22, 34, 254, 0.44);
+  display: flex;
+  justify-content: center;
+}
+
+
+h2{color:darkgreen;font-size:75px;text-align:center;}
+
+.cat-section {
+  background-color: #78f0f0;
+  padding: 20px;
+  margin: 20px;
+  border-radius: 10px;
+  transition: 0.3s;
+}
+
+/* ефект при наведенні */
+.cat-section:hover {
+  background-color:rgba(25, 55, 200, 0.3);
+    ;
+}
+
+.cat-section:active {
+  background-color: #a0e7e5;
+  transform: scale(1.05);
+}
+
+
+.cat-section2 {
+  background-color: #78f0f0;
+  padding: 20px;
+  margin: 20px;
+  border-radius: 10px;
+  transition: 0.3s;
+}
+
+/* ефект при наведенні */
+.cat-section2:hover {
+  background-color:rgba(25, 55, 200, 0.3);
+    ;
+}
+
+.cat-section2:active {
+  background-color: #a0e7e5;
+  transform: scale(1.1);
+}
+.cat-section3 {
+  background-color: #78f0f0;
+  padding: 20px;
+  margin: 20px;
+  border-radius: 10px;
+  transition: 0.3s;
+}
+
+/* ефект при наведенні */
+.cat-section3:hover {
+  background-color:rgba(25, 55, 200, 0.3);
+    ;
+}
+
+.cat-section3:active {
+  background-color: #a0e7e5;
+  transform: scale(1.1);
+}
+
+
+
+.container2 {
+display: flex;
+border-radius:15px;margin:35px;
+ justify-content: center;
+
+} 
+
+  .box5 {
+   
+      background-image: url("10.jpg");  
+      background-size: cover;
+      width: 200px;
+      height: 300px;border-radius:15px;
+      margin: 50px;}
+ .box6 {
+   
+      background-image: url("11.jpg");  
+      background-size: cover;
+      width: 200px;border-radius:15px;
+      height: 300px;
+      margin: 50px;}
+ .box7 {
+   
+      background-image: url("12.jpg");  
+      background-size: cover;
+      width: 200px;border-radius:15px;
+      height: 300px;
+      margin: 50px;}
+
+
+ .box8 {
+   
+      background-image: url("13.jpg");  
+      background-size: cover;
+      width: 200px;border-radius:15px;
+      height: 300px;
+      margin: 50px;}
+
+ .box9 {
+   
+      background-image: url("14.jpg");  
+      background-size: cover;
+      width: 200px;border-radius:15px;
+      height: 300px;
+      margin: 50px;}
+
+
+ .box10 {
+   
+      background-image: url("15.jpg");  
+      background-size: cover;
+      width: 200px;border-radius:15px;
+      height: 300px;
+      margin: 50px;}
+
+
+footer {
+   background-color:lightgreen;
+  color: black;
+  padding: 20px;
+   text-align: center;
+  font-size:20px;
+}
+.foot {
+  margin: 10px;
+}
+.foot a {
+  color: rgba(22, 34, 254, 1);
+  text-decoration: none;
+  margin: 10px;
+  font-weight: bold;
+  font-size:40px;
+}
+
+.foot a:hover {
+  background-color:black;
+  color: white; transform: scale(2);
+}
